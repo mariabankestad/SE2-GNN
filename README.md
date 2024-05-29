@@ -1,3 +1,5 @@
 # SE2-GNN
-An SE(2) equivariant graph neural network.
-![alt text](images/scatter_sim2.gif)
+This repository contains code accompanying the paper Flexible SE(2) graph neural networks with applications to PDE surrogates.
+
+
+![Rollout results of our SE(2) equivariant GNN and its non-equivariant counterpart.](images/scatter_sim2.gif)
