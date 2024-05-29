@@ -1,5 +1,5 @@
 # SE2-GNN
-This repository contains code accompanying the paper Flexible SE(2) graph neural networks with applications to PDE surrogates.
+This repository contains code accompanying the paper Flexible SE(2) graph neural networks with applications to PDE surrogates. This repo is under construction.
 
 
 ![Rollout results of our SE(2) equivariant GNN and its non-equivariant counterpart.](images/sim_force_.gif)
