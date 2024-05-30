@@ -9,3 +9,8 @@ This repository contains code accompanying the paper Flexible SE(2) graph neural
 
 *The figures show the rollout predictions of our SE(2) equivariant GNN, its non-equivariant counterpart, and the true simulation. The models have seen the first 3 seconds of the simulation.*
 
+<figure>
+    <img src="images/sim_force1.gif"
+         alt="Albuquerque, New Mexico">
+    <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
+</figure>
