@@ -13,7 +13,7 @@ This repository contains code accompanying the paper _Flexible SE(2) graph neura
 
 
 ![Rollout results of our SE(2) equivariant GNN and its non-equivariant counterpart.](images/sim_smoke.gif)
-*The figures show the rollout predictions of our SE(2) equivariant GNN (middle), its non-equivariant counterpart (right), and the true simulation (left). The models have only seen the first 2 seconds of the simulation (Figure 9 in the article).*
+*Rollout predictions of our SE(2) equivariant GNN (middle), its non-equivariant counterpart (right), and the true simulation (left). The models have only seen the first 2 seconds of the simulation (Figure 9 in the article).*
 
 ## Acknowledgements
 This work was funded by [Vinnova, grant number 2023-01398](https://www.vinnova.se/en/p/towards-efficient-computational-fluid-dynamics-simulations-with-physics-informed-machine-learning/). The simulations were performed on the Luxembourg national supercomputer MeluXina. The authors gratefully acknowledge the LuxProvide teams for their expert support.
