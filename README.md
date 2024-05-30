@@ -1,5 +1,5 @@
 # Flexible SE(2) graph neural networks with applications to PDE surrogates
-This repository contains code accompanying the paper _Flexible SE(2) graph neural networks with applications to PDE surrogates_ by Maria Bånkestad, [Olof Mogren](https://mogren.one/) and [Aleksis Pirinen](https://aleksispi.github.io/), all affiliated with the [_deep learning research group_](https://dl-group.se/) at RISE Research Institutes of Sweden. This repo is under construction.
+This repository contains code accompanying the paper _Flexible SE(2) graph neural networks with applications to PDE surrogates_ by [Maria Bånkestad](https://scholar.google.com/citations?user=4tKNCSkAAAAJ&hl=sv), [Olof Mogren](https://mogren.one/) and [Aleksis Pirinen](https://aleksispi.github.io/), all affiliated with the [_deep learning research group_](https://dl-group.se/) at RISE Research Institutes of Sweden. This repo is under construction.
 
 
 ![Rollout results of our SE(2) equivariant GNN and its non-equivariant counterpart.](images/sim1.gif)
