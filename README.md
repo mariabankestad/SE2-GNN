@@ -15,5 +15,15 @@ This repository contains code accompanying the paper [_Flexible SE(2) graph neur
 ![Rollout results of our SE(2) equivariant GNN and its non-equivariant counterpart.](images/sim_smoke.gif)
 *Rollout predictions of our SE(2) equivariant GNN (middle), its non-equivariant counterpart (right), and the true simulation (left). The models have only seen the first 2 seconds of the simulation (Figure 9 in the article).*
 
+## Citation
+If you find our code and/or [our paper](https://arxiv.org/abs/2405.20287) interesting or helpful, please consider citing:
+
+    @article{baankestad2024flexible,
+      title={Flexible SE (2) graph neural networks with applications to PDE surrogates},
+      author={B{\aa}nkestad, Maria and Mogren, Olof and Pirinen, Aleksis},
+      journal={arXiv preprint arXiv:2405.20287},
+      year={2024}
+    }
+
 ## Acknowledgements
 This work was funded by [Vinnova, grant number 2023-01398](https://www.vinnova.se/en/p/towards-efficient-computational-fluid-dynamics-simulations-with-physics-informed-machine-learning/). The simulations were performed on the Luxembourg national supercomputer MeluXina. The authors gratefully acknowledge the LuxProvide teams for their expert support.
